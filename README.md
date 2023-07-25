@@ -1,8 +1,6 @@
 # Ping-Pong
 Ping Pong PC game: Control two rods to hit the ball back and forth in a virtual sports match. Score points by passing the ball past the opponent's rod. Requires fast reflexes and precision for intense gameplay.
 
-<img src="https://i.ibb.co/Ks4fgmn/Screenshot-2023-07-25-at-10-45-18-AM.png" alt="" border="0" />
+Snapshots of my website
 
-<img src="https://i.ibb.co/Ks4fgmn/Screenshot-2023-07-25-at-10-45-18-AM.png" alt="" border="0" />
-
-<img src="https://i.ibb.co/HxKLMSj/Screenshot-2023-07-25-at-10-46-17-AM.png" alt="" border="0" />
+![Image Alt Text](https://github.com/GauravSingh72/Ping-Pong/blob/main/Screenshot%202023-07-25%20at%2010.45.18%20AM.png?raw=true)
